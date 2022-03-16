@@ -25,7 +25,7 @@ veterans deploy beautiful editions with less effort, and that it can help us tea
 while allowing us to care for our projects at less cost, and perhaps, just perhaps, to generate
 high-quality editions on github.io in large quantities based on the
 [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming
-for you, Kindle! Test.
+for you, Kindle!
 
 
 ## Sample Ed editions.
